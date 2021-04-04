@@ -1,0 +1,8 @@
+/* this is
+    multi line comment 2 */
+#INCLUDE UOL
+INT var1 = 12 // this is a comment
+FLOAT var2 = 2.5
+WHILE ( ) { 
+    a1 += 3b 
+}
